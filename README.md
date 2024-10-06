@@ -60,10 +60,10 @@ Once the model is trained, you can start the chatbot by running:
 
 bash
 python chatbot.py
-```
+
 
 ### Example Conversation:
-```
+
 Chatbot: Hello! How can I help you today?
 You: Hi
 Chatbot: Hello!
