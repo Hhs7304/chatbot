@@ -48,7 +48,7 @@ To train the chatbot model, run the following command:
 
 bash
 python intent_model.py
-```
+
 
 - **Model Saving**: The trained model is saved as `intent_model.h5`.
 - **Tokenizer & Label Encoder**: These are saved as `tokenizer.pickle` and `label_encoder.pickle`.
@@ -59,7 +59,7 @@ python intent_model.py
 
 Once the model is trained, you can start the chatbot by running:
 
-```bash
+bash
 python chatbot.py
 ```
 
@@ -70,7 +70,7 @@ You: Hi
 Chatbot: Hello!
 You: Goodbye
 Chatbot: See you later!
-```
+
 
 ---
 
