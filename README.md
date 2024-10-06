@@ -6,7 +6,6 @@ Here’s a visually appealing and well-structured `README.md` template for your 
 
 Welcome to the **AI Chatbot** project! This chatbot is designed to understand user intents and generate responses accordingly. It's built using **TensorFlow**, **Keras**, and **Natural Language Processing (NLP)** techniques.
 
-![Chatbot Image](https://via.placeholder.com/600x200) <!-- You can replace this with an actual image of your chatbot -->
 
 ---
 
@@ -24,7 +23,7 @@ Welcome to the **AI Chatbot** project! This chatbot is designed to understand us
 ### 1. Clone the Repository
 
 bash
-git clone https://github.com/yourusername/ai-chatbot.git
+git clone[ https://github.com//ai-chatbot.git](https://github.com/Hhs7304)
 cd ai-chatbot
 
 
