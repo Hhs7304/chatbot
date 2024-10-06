@@ -28,11 +28,10 @@ cd ai-chatbot
 
 
 ### 2. Create and Activate a Virtual Environment
-
-bash
 # For Python virtualenv
 python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+
 
 
 ### 3. Install Dependencies
