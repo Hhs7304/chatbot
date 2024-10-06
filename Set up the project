@@ -1,0 +1,17 @@
+#1.Create a new directory and navigate to it
+mkdir chatbot_project
+cd chatbot_project
+
+#2.Create a virtual environment and activate it
+python -m venv chatbot_env
+source chatbot_env/bin/activate  # On Windows, use `chatbot_env\Scripts\activate`
+
+#3.Create a requirements.txt file with the following content
+nltk
+tensorflow
+scikit-learn
+numpy
+pandas
+
+#4.Install the required packages:
+pip install -r requirements.txt
